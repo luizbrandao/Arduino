@@ -1,0 +1,3 @@
+BlinkLedSensor
+
+Esse codigo tem a funcao de ativar e desativar um led apartir de uma taxa especifica lida no sensor instalado na protoboard.

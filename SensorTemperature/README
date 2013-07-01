@@ -1,0 +1,3 @@
+SensorTemperature
+
+Leio a temperatura obtida atraves de um sensor LM35 e envio para o computador atraves da porta serial.

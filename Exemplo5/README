@@ -1,0 +1,7 @@
+Exemplo5
+
+Nesse exemplo, ligamos o led assim que o botao e pressionado.
+
+Se o botao for pressionado novamente desligado.
+
+Se o botao for mantido pressionado aplica o efeito de-bouncing.

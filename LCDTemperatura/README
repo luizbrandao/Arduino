@@ -1,0 +1,4 @@
+LCDTemperatura
+
+Exemplo onde capturamos a temperatura ambiente atraves de um sensor LM35
+e apresentamos no LCD.

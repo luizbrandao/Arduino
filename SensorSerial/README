@@ -1,0 +1,3 @@
+SensorSerial
+
+Capturo a temperatura atraves de um sensor LM35 e mando para o computador atraves da porta serial.
