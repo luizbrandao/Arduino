@@ -19,5 +19,6 @@ void loop(){
   lcd.setCursor(0,1); // Coloco o cursor na segunda linha, coluna 0
   lcd.print(voltage); // Escrevo o valor da temperatura no Curso
   lcd.setCursor(6,1); // Coloco o cursor na segunda linha, coluna 6
-  lcd.print("graus"); // Escrevo a segunda parte da mensagem 
+  lcd.print("graus"); // Escrevo a segunda parte da mensagem
+  delay(1000);        // Delay de um segundo, para melhor imprimir as informacoes
 }
